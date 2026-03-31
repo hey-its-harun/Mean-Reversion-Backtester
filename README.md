@@ -117,10 +117,5 @@ matplotlib>=3.8.0
 ---
 
 
-## GitHub Repo Description (paste into About)
-
-> Z-score mean reversion backtest on NFLX | Python · yfinance · pandas · matplotlib | BUY/SELL signals, transaction costs, Sharpe & drawdown metrics, 3-panel chart output
-
----
 
 *Built with Python · yfinance · pandas · NumPy · Matplotlib*
